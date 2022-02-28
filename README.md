@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Felix also known as Mummel</h1>
 <h3 align="center">IT-security - be prepared.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumml" alt="mumml" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumml&theme=gruvbox" alt="mumml" /></a> </p>
 
 • 🔭 I’m currently working on [CTF Challenges](https://github.com/Mumml/CTF_writeups)
 
