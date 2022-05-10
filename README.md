@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Felix also known as Mummel</h1>
+<h1 align="center">Hi, I'm Felix </h1>
 <h3 align="center">IT-security - be prepared.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumml&theme=nord" alt="mumml" /></a> </p>
