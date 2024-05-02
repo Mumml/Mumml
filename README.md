@@ -9,11 +9,7 @@
 
 • 👨‍💻 All of my projects are available at [https://github.com/Mumml?tab=repositories](https://github.com/Mumml?tab=repositories)
 
-• 📝 I regularly write articles on [mummel.tech](mummel.tech)
 
-• 📫 How to reach me **mail@mummel.tech**
-
-• 📄 Know about my experiences [https://mummel.tech/profile/](https://mummel.tech/profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
